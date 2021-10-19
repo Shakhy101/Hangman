@@ -4,7 +4,7 @@ Game to learn loops, conditions and list manipulation
 
 ## Installation
 
-Not necessary. Just run 
+Not necessary. Just git clone and run 
 
 ```bash
 python main.py
